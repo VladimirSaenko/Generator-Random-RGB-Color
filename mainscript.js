@@ -61,16 +61,13 @@ function ifEqualyColors() {
 }
 
 function activateInfinityStreamColor() {
-
     setInterval(
-
         function getRandomRGBColor2() {
             box.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
-            // inputRgb.value = box.style.background + ';';
-            // inputRgb.style.color = box.style.background;
             inputRgb.style.display = "none";
             getRandomRGBColorBtn.style.display = "none";
             infinityColorStreamBtn.style.display = "none";
+            copyBtn.style.display = "none";
             let body = document.body;
             body.style.cursor = "none";
         }, 1000
