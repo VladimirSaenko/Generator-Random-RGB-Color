@@ -183,5 +183,3 @@ setInterval(function infinityStreamInColorText() {
     infinityColorStreamBtn.style.color = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
     infinityColorStreamBtn.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
 }, 1000);
-// ifMoreOrLessValueUserColor();
-// getUserRGBColor();
