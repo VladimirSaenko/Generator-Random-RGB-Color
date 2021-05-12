@@ -1,4 +1,4 @@
-# Generator-Random-RGB-Color-site
+# Generator-Random-RGB-Color
  
 Генератор случайного RGB-цвета
 
