@@ -1,6 +1,6 @@
 # Generator-Random-RGB-Color
  
-Генератор случайного RGB-цвета
+### Генератор случайного RGB-цвета
 
 Portfolio-3 {
 
